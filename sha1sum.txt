@@ -1,0 +1,7 @@
+6deb78519e3c788b16e4e7c92f9d24e44d64303c  Quark_EDKII_v1.0.1.tar.gz
+42c10ff3000016b01791f0c5c140957eb25d2842  grub-legacy_5775f32a+v1.0.1.tar.gz
+b0e9ff15175ec8d9546172590ae3be16bacf32d3  meta-clanton_v1.0.1.tar.gz
+6fb73cea1cc5c8e40cdf2876e03636b7dc9e9e47  quark_linux_v3.8.7+v1.0.1.tar.gz
+b8daaa2dd1f9c53593c1c4f3f347a3fa975cb707  sha1sum.txt
+0bccbc903b7ac7c1dede48af19b1b1d4c7d9b791  spi-flash-tools_v1.0.1.tar.gz
+b8e21ca3c4fcee3ca12afcd3e05e3278c957d1ac  sysimage_v1.0.1.tar.gz
